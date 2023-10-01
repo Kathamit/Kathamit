@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm currently completing my school project### Hi there 👋
 
 <!--
 **Kathamit/Kathamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
