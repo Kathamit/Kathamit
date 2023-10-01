@@ -1,3 +1,8 @@
+Katha Patel
+Email Address: kdpatel1@my.waketech.edu
+This is my github account for school work
+I created this repository named Kathamit
+To clone repository in my desktop I went to Clone repository using git hub account and selected the repository I created and saved it on assignments folder on my desktop.
 I'm currently completing my school project### Hi there 👋
 
 <!--
